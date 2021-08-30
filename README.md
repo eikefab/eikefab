@@ -8,7 +8,7 @@ Nowadays I'm studying at [Instituto Federal de Alagoas](https://www2.ifal.edu.br
 
 #### Interests
 
-I'm learning something new everyday! Java is my main language, but Python, Kotlin, JavaScript and Go are on my roadmap. I enjoy coding games systems and some libraries that help me on that.
+I'm learning something new everyday! Java is my main language, but Python, Kotlin, JavaScript and Go are on my roadmap. I enjoy coding games systems and some libraries that help me to.
 
 #### Tech interests
 
