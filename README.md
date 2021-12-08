@@ -2,7 +2,7 @@
 
 Hello! Welcome to my github!
 
-I'm Eike, a 16 years-old brazilian tech enthusiast and games lover.<br>
+I'm Eike, a 17 years-old brazilian tech enthusiast and games lover.<br>
 My pronouns are he/him.<br>
 Nowadays I'm studying at [Instituto Federal de Alagoas](https://www2.ifal.edu.br) on Brazil.
 
