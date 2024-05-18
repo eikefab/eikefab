@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Hello! Welcome to my github! I'm **Eike Fabricio**, a brazilian, games lover and someone with great interest and enthusiasm in tech.
+Working at F2J Soluções as Mobile Developer, using React Native and Ionic; along with other technologies, such as PL/SQL and Oracle APEX Cloud (App Builder and SQL Workshop).
 
 I'm currently enrolled at the Information Systems Bachelor, at Instituto Federal de Alagoas, in Brazil.
 But before the college, I had also graduated from highschool integrated with technician classes in Informatic to Internet, where I learned the basics of programming, computer maintenance, network configuration, as well some kind of DevOps-ish things.
